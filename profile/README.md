@@ -7,7 +7,7 @@
 </h3>
 
 Welcome to Unstructured Technologies! We're delivering the first ever open-source toolkit
-designed to make it easy to perpared unstructured data like PDFs, HTML and Word Documents
+designed to make it easy to prepare unstructured data like PDFs, HTML and Word Documents
 for downstream data science tasks. Check out our core repos:
 
 - [`unstructured`](https://github.com/Unstructured-IO/unstructured) - Core library with
