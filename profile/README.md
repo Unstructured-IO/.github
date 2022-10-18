@@ -18,6 +18,8 @@ for downstream data science tasks. Check out our core repos:
   machine learning workflows.
 - [`pipeline-sec-filings`](https://github.com/Unstructured-IO/pipeline-sec-filings) - A document
   pre-processing pipeline for SEC filings focused on 10-Ks, 10-Qs, and S-1s.
+- [`community`](https://github.com/Unstructured-IO/community) - Repo with issues for community
+  contributors and guidelines on how to contribute.
 
 ## Learn more
 
