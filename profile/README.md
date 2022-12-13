@@ -20,6 +20,9 @@ for downstream data science tasks. Check out our core repos:
   pre-processing pipeline for SEC filings focused on 10-Ks, 10-Qs, and S-1s.
 - [`pipeline-oer`](https://github.com/Unstructured-IO/pipeline-oer) - A document
   pre-processing pipeline for US Army Officer Evaluation Reports (OERs).
+- [`pipeline-paddleocr`](https://github.com/Unstructured-IO/pipeline-paddleocr) - A pipeline for running
+  images through [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), an an open-source,
+  multilingual OCR tool.
 - [`pipeline-template`](https://github.com/Unstructured-IO/pipeline-template) - Use this template-driven utility when creating a new `pipeline-` project.
 - [`community`](https://github.com/Unstructured-IO/community) - Repo with issues for community
   contributors and guidelines on how to contribute.
