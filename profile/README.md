@@ -13,6 +13,8 @@ for downstream data science tasks. Check out our core repos:
 - [`unstructured`](https://github.com/Unstructured-IO/unstructured) - Core library with
   pre-processing components for unstructured data, including partitioning, cleaning, and
   staging bricks.
+- [`unstructured-inference`](https://github.com/Unstructured-IO/unstructured-inference) - Library
+  with inferenced code that can be used locally in `unstructured` or as a hosted service.
 - [`unstructured-api-tools`](https://github.com/Unstructured-IO/unstructured-api-tools) - Library
   that converts pipeline notebooks to REST APIs for easy consumption in data science and
   machine learning workflows.
