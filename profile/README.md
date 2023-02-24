@@ -21,7 +21,7 @@
 	
   <p>The competition starts now and continues through March 10...and most importantly, we're offering cash prizes! Please join our <a
   href="https://join.slack.com/t/unstructuredw-kbe4326/shared_invite/zt-1nlh1ot5d-dfY7zCRlhFboZrIWLA4Qgw">
-   community Slack</a> to participate and follow along</p>
+   community Slack</a> to participate and follow along.</p>
 	<p><img src="https://github.com/Unstructured-IO/unstructured/blob/main/money.gif"></p>
 </div>
 
