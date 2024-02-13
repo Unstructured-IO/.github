@@ -25,11 +25,11 @@ LLM applications, from PDFs and Word Docs to emails and markdown. To get started
 open source offerings.
 
 
-- [`unstructured`](https://github.com/Unstructured-IO/unstructured) - Core library with
-  pre-processing components for unstructured data, including partitioning, cleaning, and
-  staging bricks.
-- [`unstructured-api`](https://github.com/Unstructured-IO/unstructured-api) - Project that provides
-  `unstructured`'s core partitioning capability as an API, able to process many types of raw documents.
+- [`unstructured`](https://github.com/Unstructured-IO/unstructured) - Core library for partitioning,
+  cleaning, and chunking 25+ documents types for LLM applications and connecting to source and
+  destination data source.
+- [`unstructured-api`](https://github.com/Unstructured-IO/unstructured-api) - An open source API
+  that wraps the `unstructured` Python library.
 - [`unstructured-python-client`](https://github.com/Unstructured-IO/unstructured-python-client) -
   Python client library for our API.
 - [`unstructured-js-client`](https://github.com/Unstructured-IO/unstructured-js-client) - JavaScript
