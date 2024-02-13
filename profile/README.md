@@ -17,33 +17,28 @@
 </div>
 
 <h3 align="center">
-  <p>Open-Source Pre-Processing Tools for Unstructured Data</p>
+  <p>Unstructured.IO: ETL for LLMs</p>
 </h3>
 
-Welcome to Unstructured Technologies! We're delivering the first ever open-source toolkit
-designed to make it easy to prepare unstructured data like PDFs, HTML and Word Documents
-for downstream data science tasks. Check out our core repos:
+Welcome to Unstructured.IO! We're here on a mission to make all of your documents available for
+LLM applications, from PDFs and Word Docs to emails and markdown. To get started, check out our
+open source offerings.
 
-- [`unstructured`](https://github.com/Unstructured-IO/unstructured) - Core library with
-  pre-processing components for unstructured data, including partitioning, cleaning, and
-  staging bricks.
-- [`unstructured-api`](https://github.com/Unstructured-IO/unstructured-api) - Project that provides
-  `unstructured`'s core partitioning capability as an API, able to process many types of raw documents.
-- [`unstructured-api-tools`](https://github.com/Unstructured-IO/unstructured-api-tools) - Library
-  that converts pipeline notebooks to REST APIs for easy consumption in data science and
-  machine learning workflows.
-- [`unstructured-inference`](https://github.com/Unstructured-IO/unstructured-inference) - Library
-  with inferenced code that can be used locally in `unstructured` or as a hosted service.
-- [`pipeline-oer`](https://github.com/Unstructured-IO/pipeline-oer) - A document
-  pre-processing pipeline for US Army Officer Evaluation Reports (OERs).
-- [`pipeline-paddleocr`](https://github.com/Unstructured-IO/pipeline-paddleocr) - A pipeline for running
-  images through [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), an an open-source,
-  multilingual OCR tool.
-- [`pipeline-sec-filings`](https://github.com/Unstructured-IO/pipeline-sec-filings) - A document
-  pre-processing pipeline for SEC filings focused on 10-Ks, 10-Qs, and S-1s.
-- [`pipeline-template`](https://github.com/Unstructured-IO/pipeline-template) - Use this template-driven utility when creating a new `pipeline-` project.
 
-See [`community`](https://github.com/Unstructured-IO/community) for more general documentation about pipeline- family API's and contributing across all Unstructured's repos.
+- [`unstructured`](https://github.com/Unstructured-IO/unstructured) - Core library for partitioning,
+  cleaning, and chunking 25+ documents types for LLM applications and connecting to source and
+  destination data source.
+- [`unstructured-api`](https://github.com/Unstructured-IO/unstructured-api) - An open source API
+  that wraps the `unstructured` Python library.
+- [`unstructured-python-client`](https://github.com/Unstructured-IO/unstructured-python-client) -
+  Python client library for our API.
+- [`unstructured-js-client`](https://github.com/Unstructured-IO/unstructured-js-client) - JavaScript
+  client library for our API.
+
+Tried the open source library and ready for more power? Check out our
+[products page](https://unstructured.io/product) to learn more about our paid API and Unstructured
+Platform, and ETL tool built around our core file transformation capabilities.
+
 
 ## Learn more
 
