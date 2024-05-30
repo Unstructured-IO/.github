@@ -45,4 +45,4 @@ Platform, and ETL tool built around our core file transformation capabilities.
 | Section | Description |
 |-|-|
 | [Company Website](https://unstructured.io) | Unstructured.io product and company info |
-| [Documentation](https://unstructured-io.github.io/unstructured) | Full `unstructured` documentation |
+| [Documentation]([https://unstructured-io.github.io/unstructured](https://docs.unstructured.io/) | Full `unstructured` documentation |
