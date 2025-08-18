@@ -7,19 +7,11 @@
 
 <div>
   <p align="center">
-  <a
-  href="https://short.unstructured.io/pzw05l7">
-    <img src="https://img.shields.io/badge/JOIN US ON SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/company/unstructuredio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/UnstructuredIO">
-    <img src="https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@unstructuredio">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <a href="https://short.unstructured.io/pzw05l7"><img src="https://img.shields.io/badge/JOIN US ON SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/company/unstructuredio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/UnstructuredIO"><img src="https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@unstructuredio"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  </p>
 </div>
 
 <h3 align="center">
