@@ -33,7 +33,7 @@ To get started, check out our open source offerings:
 - [`unstructured-js-client`](https://github.com/Unstructured-IO/unstructured-js-client) - JavaScript
   client library for our API.
 
-Ready for a more performant and reliable experience? [Try Unstructured for free today](https://unstructured.io/) and experience the next evolution of ETL for GenAI applications.
+Ready for a more performant and reliable experience? [Try Unstructured for free today](https://unstructured.io/?modal=try-for-free) and experience the next evolution of ETL for GenAI applications.
 
 
 ## Learn more:
